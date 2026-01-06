@@ -4,6 +4,7 @@ from util.io import load_text
 
 
 DATASETS = [
+    'mi_dataset'
     'tennis',
     'fs_perf',
     'fs_comp',
