@@ -261,7 +261,7 @@ class E2EModel(BaseRGBModel):
                 label = label.flatten() if len(label.shape) == 2 \
                     else label.view(-1, label.shape[-1])
 
-                with torch.cuda.amp.autocast():
+                with torch.amp.autocast(device_type='cuda'):
                     pred = self._model(frame)
 
                     loss = 0.
@@ -292,7 +292,7 @@ class E2EModel(BaseRGBModel):
 
         self._model.eval()
         with torch.no_grad():
-            with torch.cuda.amp.autocast() if use_amp else nullcontext():
+            with torch.amp.autocast(device_type='cuda') if use_amp else nullcontext():
                 pred = self._model(seq)
             if isinstance(pred, tuple):
                 pred = pred[0]

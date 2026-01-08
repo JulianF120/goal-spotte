@@ -1,0 +1,282 @@
+[
+    {
+        "video": "latecla/dia/SHOW_GOLES",
+        "num_frames": 3235,
+        "num_events": 4,
+        "events": [
+            {
+                "frame": 398,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 950,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1494,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2013,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 22,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "latecla/noche/SHOW_GOLES",
+        "num_frames": 12232,
+        "num_events": 19,
+        "events": [
+            {
+                "frame": 1294,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1988,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3072,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3595,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4516,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5188,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5731,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6265,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6664,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7249,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7841,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8303,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8748,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9398,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9958,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10512,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11052,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11549,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12094,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 22,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "zonafutbol/dia/SHOW_GOLES",
+        "num_frames": 5212,
+        "num_events": 7,
+        "events": [
+            {
+                "frame": 289,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 963,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1544,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2050,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2749,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3223,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3837,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "soccer_city/SHOW_GOLES",
+        "num_frames": 9780,
+        "num_events": 18,
+        "events": [
+            {
+                "frame": 236,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 785,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2475,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2862,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2950,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3472,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3874,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3951,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4685,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5022,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5771,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6296,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6780,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7295,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7684,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8494,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8953,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9417,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 22,
+        "width": 2560,
+        "height": 1440
+    }
+]

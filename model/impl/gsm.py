@@ -48,10 +48,12 @@ class _GSM(nn.Module):
         self.relu = nn.ReLU()
 
     def lshift_zeroPad(self, x):
-        return torch.cat((x[:,:,1:], ftens(x.size(0), x.size(1), 1, x.size(3), x.size(4)).fill_(0)), dim=2)
+        padding = torch.zeros((x.size(0), x.size(1), 1, x.size(3), x.size(4)), dtype=x.dtype, device=x.device)
+        return torch.cat((x[:, :, 1:], padding), dim=2)
 
     def rshift_zeroPad(self, x):
-        return torch.cat((ftens(x.size(0), x.size(1), 1, x.size(3), x.size(4)).fill_(0), x[:,:,:-1]), dim=2)
+        padding = torch.zeros((x.size(0), x.size(1), 1, x.size(3), x.size(4)), dtype=x.dtype, device=x.device)
+        return torch.cat((padding, x[:,:,:-1]), dim=2)
 
     def forward(self, x):
         batchSize = x.size(0) // self.num_segments

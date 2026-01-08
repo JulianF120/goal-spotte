@@ -1,0 +1,1292 @@
+[
+    {
+        "video": "belvedere/dia/SHOW_GOLES",
+        "num_frames": 18352,
+        "num_events": 31,
+        "events": [
+            {
+                "frame": 334,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 799,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1663,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2029,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2806,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3322,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3842,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4984,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5569,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6184,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6755,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7225,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7846,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8401,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9075,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9576,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10053,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10751,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11349,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11843,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12249,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12970,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 13601,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 14118,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 14717,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 15284,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 15847,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 16493,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 16957,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 17570,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 18100,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "belvedere/noche/SHOW_GOLES",
+        "num_frames": 11891,
+        "num_events": 20,
+        "events": [
+            {
+                "frame": 288,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 892,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1290,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2086,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2425,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3243,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3785,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4317,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5433,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5756,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6560,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7196,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7661,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8288,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8765,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9324,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10011,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10525,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11070,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11732,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "zonafutbol/noche/SHOW_GOLES",
+        "num_frames": 12388,
+        "num_events": 20,
+        "events": [
+            {
+                "frame": 300,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 826,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1351,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1937,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2644,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3206,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3723,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4246,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4598,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4637,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5333,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5929,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6548,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7131,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8780,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9348,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9931,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10375,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11594,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12145,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "la_bombonera/SHOW_GOLES",
+        "num_frames": 12943,
+        "num_events": 23,
+        "events": [
+            {
+                "frame": 425,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 939,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1438,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2122,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2653,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3193,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3765,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4347,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4887,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5465,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6017,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6490,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7181,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7754,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8299,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8874,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9425,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9985,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10562,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11126,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11632,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12271,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12759,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "qf5/SHOW_GOLES",
+        "num_frames": 14107,
+        "num_events": 25,
+        "events": [
+            {
+                "frame": 361,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 909,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1502,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2019,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2566,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3204,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3704,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4310,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4959,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5493,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6002,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6552,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7110,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7691,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8115,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8791,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9384,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9899,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10509,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10966,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11560,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11974,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12622,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 13104,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 13871,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 24,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "campomar/dia/SHOW_GOLES",
+        "num_frames": 13146,
+        "num_events": 16,
+        "events": [
+            {
+                "frame": 234,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1963,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3621,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4134,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4606,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5948,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6521,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7037,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7389,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9607,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10107,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10695,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11168,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11818,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12194,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12969,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "campomar/noche/SHOW_GOLES",
+        "num_frames": 10716,
+        "num_events": 16,
+        "events": [
+            {
+                "frame": 260,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 933,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1419,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2055,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2643,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3020,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3687,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4227,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5388,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6472,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7117,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8204,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8841,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9385,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9649,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10366,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "espacioprado/SHOW_GOLES",
+        "num_frames": 28469,
+        "num_events": 23,
+        "events": [
+            {
+                "frame": 1395,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2061,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2576,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3076,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4252,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4907,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5897,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7016,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8179,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8701,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9829,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 14052,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 14534,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 15100,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 15773,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 17144,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 17757,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 18705,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 20758,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 22245,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 22278,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 23560,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 26769,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "monumental/SHOW_GOLES",
+        "num_frames": 18832,
+        "num_events": 26,
+        "events": [
+            {
+                "frame": 813,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1421,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1851,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2547,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3170,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4099,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4687,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5182,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6240,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6815,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7284,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7770,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8381,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9118,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9679,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11052,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11862,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12483,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 13341,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 13912,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 15173,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 16084,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 16582,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 17112,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 18016,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 18570,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "lacanchita/SHOW_GOLES",
+        "num_frames": 7577,
+        "num_events": 12,
+        "events": [
+            {
+                "frame": 1060,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1749,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2042,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2091,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2890,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3784,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4602,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5190,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5667,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6092,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6795,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7446,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    },
+    {
+        "video": "nutrifit/SHOW_GOLES",
+        "num_frames": 13414,
+        "num_events": 0,
+        "events": [
+            {
+                "frame": 185,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 739,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 1408,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2209,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 2468,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3289,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 3676,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 4474,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5005,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 5569,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6065,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 6620,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7086,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 7654,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8139,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8657,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 8993,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 9798,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10419,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 10908,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 11510,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12066,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 12584,
+                "label": "gol",
+                "comment": ""
+            },
+            {
+                "frame": 13119,
+                "label": "gol",
+                "comment": ""
+            }
+        ],
+        "fps": 23,
+        "width": 2560,
+        "height": 1440
+    }
+]

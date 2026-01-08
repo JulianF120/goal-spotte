@@ -15,7 +15,7 @@ class FeatureModel(ABCModel):
 
     def get_optimizer(self, opt_args):
         return torch.optim.AdamW(self._get_params(), **opt_args), \
-            torch.cuda.amp.GradScaler() if self.device == 'cuda' else None
+            torch.amp.GradScaler('cuda') if self.device == 'cuda' else None
 
     """ Assume there is a self._model """
 
@@ -63,7 +63,7 @@ def _epoch_helper(
             batch_size = x.shape[0]
             with (
                     nullcontext() if scaler is None
-                    else torch.cuda.amp.autocast()
+                    else torch.amp.autocast(device_type='cuda')
             ):
                 pred = model(x, m)
                 if len(pred.shape) == 3:    # Single stage only
