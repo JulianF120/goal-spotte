@@ -178,7 +178,8 @@ def _get_img_transforms(
             print('=> Using seeded crops!')
             crop_transform = SeedableRandomSquareCrop(crop_dim)
         else:
-            crop_transform = transforms.RandomCrop(crop_dim)
+            print('=> Not Cropped!')
+            #crop_transform = transforms.RandomCrop(crop_dim)
 
     img_transforms = []
     if modality == 'rgb':
