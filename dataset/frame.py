@@ -171,12 +171,15 @@ def _get_img_transforms(
     if crop_dim is not None:
         if multi_crop:
             assert is_eval
-            crop_transform = ThreeCrop(crop_dim)
+            print('=> Not Cropped!')
+            #crop_transform = ThreeCrop(crop_dim)
         elif is_eval:
-            crop_transform = transforms.CenterCrop(crop_dim)
+            print('=> Not Cropped!')
+            #crop_transform = transforms.CenterCrop(crop_dim)
         elif same_transform:
-            print('=> Using seeded crops!')
-            crop_transform = SeedableRandomSquareCrop(crop_dim)
+            print('=> Not Cropped!')
+            #print('=> Using seeded crops!')
+            #crop_transform = SeedableRandomSquareCrop(crop_dim)
         else:
             print('=> Not Cropped!')
             #crop_transform = transforms.RandomCrop(crop_dim)
